@@ -1,0 +1,14 @@
+{
+  "name": "require-component",
+  "version": "0.1.0",
+  "description": "Require component and npm modules",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CamShaft/require-component.git"
+  },
+  "author": "Cameron Bytheway <cameron@nujii.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
