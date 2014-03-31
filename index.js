@@ -11,7 +11,11 @@ module.exports = function(parent) {
         return parent(fallback || name+"-component");
       }
       catch(e2) {
-        throw e;
+        try {
+          return parent("component-"+name);
+        } catch (e3) {
+          throw e;
+        }
       }
     }
   };
