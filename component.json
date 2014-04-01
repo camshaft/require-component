@@ -1,8 +1,8 @@
 {
   "name": "require-component",
-  "repo": "CamShaft/require-component",
+  "repo": "camshaft/require-component",
   "description": "Require component and npm modules",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": [],
   "dependencies": {},
   "development": {},
